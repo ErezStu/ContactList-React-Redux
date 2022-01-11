@@ -10,6 +10,6 @@ Run it with the commands:
 
 The app runs on locallhost:3000
 
-Link to the website: https://contacts-list-pepole.netlify.app/
+# Link to the website: https://contacts-list-pepole.netlify.app/
 
 ![image](https://user-images.githubusercontent.com/88786771/146970909-2ca8ae62-5617-4d72-b81d-4a20e6213582.png)
